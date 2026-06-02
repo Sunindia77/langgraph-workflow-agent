@@ -13,6 +13,7 @@ A sophisticated multi-agent AI system built with LangGraph and Streamlit that or
 - **🛠️ Tool Integration**: Custom tools for search, retrieval, and analysis
 
 ## 📋 Architecture
+<img width="954" height="468" alt="image" src="https://github.com/user-attachments/assets/7b209862-6ecd-401e-bd07-976ce0b01ff2" />
 
 ### Core Components
 
@@ -273,5 +274,6 @@ For issues and questions:
 ---
 
 **Ready to get started?** Follow the [Quick Start](#-quick-start) section above!
-#   l a n g g r a p h - w o r k f l o w - a g e n t  
+#   l a n g g r a p h - w o r k f l o w - a g e n t 
+ 
  
